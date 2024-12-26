@@ -237,6 +237,6 @@ In simpler terms, the model is no longer just memorizing the training data, but 
 
 By applying Grid Search and fine-tuning the hyperparameters, we successfully reduced overfitting, leading to a more robust model that performs well both on the training data and on unseen data. The increase in the average cross-validation score shows that the model is now better at generalizing, making it more reliable for real-world applications.
 
-##Deploy
+## Deploy
 Now just integrate the model with flask and deploy it....
 
